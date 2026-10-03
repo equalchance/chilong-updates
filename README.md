@@ -1,13 +1,14 @@
 # Twisted Insurrection: Chilong Edition updates
 
-Public Experimental Build 7 is available through the Chilong client updater.
+Public Experimental Build 8
 
-- Fixed units returning to an old destination after Attack-Move; its movement lines are now yellow.
-- Added battlefield-only zoom, a fixed sidebar and Auto UI scaling.
-- Fixed zoom restart issues, surface clipping and duplicate pause-menu dialogs.
-- Reduced menu repaint work and corrected client resolution selection.
+- AI Quake Generators recharge twice as slowly, reducing their launch frequency.
+- AI Quake impacts have a 25% chance of creating rocks, including the full-strength enemy generators in Paradox Device.
+- Quake rocks can be targeted manually. Nearby armed ground units with suitable weapons automatically attack them, with enemy combat targets taking priority.
+- Human Quake recharge, weapon damage and rock durability are unchanged.
 
-Launch the Chilong client and accept the update. Start a new campaign mission after updating.
+Update through the Chilong client. Start a new game or restart the campaign mission to load the new rock-spawning definitions. Existing rocks remain in old saves.
+
+Seven-AI congestion, multiplayer synchronization and full Paradox gameplay remain unverified. Some weapons, including the tested grenadier, may acquire rocks without clearing them effectively.
 
 [Fresh installation: download Public Experimental Build 5](https://github.com/equalchance/chilong-updates/releases/tag/public-experimental-build-5), then update through the client.
-Build 6's Twisted Dawn descriptions and Multi-Engineer fix are included.
