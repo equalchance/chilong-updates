@@ -1,9 +1,9 @@
 # Twisted Insurrection: Chilong Edition updates
 
-Public Experimental Build 9
+Public Experimental Build 10
 
-Six Attack-Move corrections, retaining Build 8 content.
+Persistent individual-mission progress, Continue, Unlock all missions, and campaign balance corrections for Scatterpacks, Hornets and Siege Troopers.
 
-Update through the Chilong client. Start a new game or restart your campaign mission: Build 9 requires new saves. All multiplayer participants must use Build 9.
+Update through the Chilong client. Start a new mission after updating; older game saves are incompatible. All multiplayer participants must use Build 10.
 
 [Fresh installation: download Public Experimental Build 5](https://github.com/equalchance/chilong-updates/releases/tag/public-experimental-build-5), then update through the client.
