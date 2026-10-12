@@ -2,8 +2,6 @@
 
 Public Experimental Build 10
 
-Hotfix 1: GDI 1 and Nod 1 are available immediately; their intros are optional.
-
 Persistent individual-mission progress, Continue, Unlock all missions, and campaign balance corrections for Scatterpacks, Hornets and Siege Troopers.
 
 Update through the Chilong client. This hotfix keeps Build 10 saves compatible. Start a new mission when updating from earlier builds. All multiplayer participants must use Build 10.
