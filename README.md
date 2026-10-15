@@ -1,5 +1,16 @@
 # Twisted Insurrection: Chilong Edition updates
 
+## Build 10 Hotfix 2
+
+- Fixed campaign crashes when GloboTech Apollo bombers fire, including GDI Mission 10: Insurrection and Mission 12: Isolation.
+- Applied the same correction across campaign missions.
+
+Update through the Chilong client, then restart the affected mission to load the correction.
+Campaign progress, settings and saved-game files are preserved by the updater.
+
+Includes Hotfix 1's optional GDI and Nod introductions and Build 10's mission progress and campaign balance corrections.
+
+
 Public Experimental Build 10
 
 Persistent individual-mission progress, Continue, Unlock all missions, and campaign balance corrections for Scatterpacks, Hornets and Siege Troopers.
