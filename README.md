@@ -1,5 +1,18 @@
 # Twisted Insurrection: Chilong Edition updates
 
+## Build 10 Hotfix 3
+
+- Campaign victories are now recorded with Individual Missions turned off. Enabling it later retains victories earned after this update, including missions played in one continuous campaign session.
+- Recorded victories survive a crash in a later mission of the same campaign session.
+- Fixed campaign projectile images disappearing after saving and loading.
+- Fixed incomplete projectile definitions used by campaign bombers.
+
+Update through the Chilong client, then restart the affected mission. Older saves retain their existing mission data, and previously unrecorded victories cannot be recovered automatically.
+Campaign progress, settings and saved-game files are preserved by the updater.
+
+Includes Hotfix 2's Apollo bomber crash correction and Hotfix 1's optional campaign introductions.
+
+
 ## Build 10 Hotfix 2
 
 - Fixed campaign crashes when GloboTech Apollo bombers fire, including GDI Mission 10: Insurrection and Mission 12: Isolation.
