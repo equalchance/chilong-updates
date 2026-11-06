@@ -1,5 +1,13 @@
 # Twisted Insurrection: Chilong Edition updates
 
+## Build 10 Hotfix 4
+
+- Fixed the Chronosphere and the Tiberium Monument being invisible on every map.
+- Fixed the Junk Pile and the Nod City Complex buildings being invisible on snow maps.
+
+Update through the Chilong client. Only Art.ini changes. Saves and settings are kept, and all multiplayer players should update.
+
+
 ## Build 10 Hotfix 3
 
 - Campaign victories are now recorded with Individual Missions turned off. Enabling it later retains victories earned after this update, including missions played in one continuous campaign session.
